@@ -2,10 +2,25 @@ img {
   max-width: 500px;
 }
 
-h1 {
+.header {
+  font-weight: bold;
+  font-size: 400%;
   color: grey;
 }
 
-h2 {
+.middle {
   font-style: italic;
+}
+
+.fave {
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.color {
+  color: grey;
+  font-size: 120%;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 200%;
 }
